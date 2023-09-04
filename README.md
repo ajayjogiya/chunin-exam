@@ -11,5 +11,9 @@ cd chunin-exam
 `
 
 `
+javac *.java
+`
+
+`
 java Main
 `
