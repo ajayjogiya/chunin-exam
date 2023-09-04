@@ -1,6 +1,5 @@
 /*
  * Disclaimer: Here are only questions about the naruto series.
- * Who knows what Ibiki asked in paper??
  */
 
 public class Questions {

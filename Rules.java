@@ -4,7 +4,7 @@ public class Rules {
     String finalRule;
 
     public Rules() {
-        heading = "This is a test to evaluates your ninja knowledge.\n" +
+        heading = "This test questions are based on naruto.\n" +
                 "It's an MCQ type questions. Every question have A,B,C,D option."
                 + " You have to enter only one option. Ex: A\n\n";
         finalRule = "You have a choice to attend the final question." +

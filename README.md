@@ -1,5 +1,4 @@
-# chunin-exam
-The first stage to become an Chūnin
+# exam
 
 
 ## To give the exam, first clone the repo
