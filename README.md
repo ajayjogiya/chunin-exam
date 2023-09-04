@@ -6,7 +6,7 @@
 (Side note: Make sure you installed java)
 
 `
-cd chunin-exam
+cd exam
 `
 
 `
