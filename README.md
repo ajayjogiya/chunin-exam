@@ -2,10 +2,12 @@
 The first stage to become an Chūnin
 
 
-## To give the exam, first clone the repo, and also make sure you installed java
+## To give the exam, first clone the repo
+
+(Side note: Make sure you installed java)
 
 `
-cd ./chunin-exam
+cd chunin-exam
 `
 
 `
