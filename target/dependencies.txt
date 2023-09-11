@@ -1,0 +1,30 @@
+digraph "exam:exam:jar:1.0.0-SNAPSHOT" { 
+	"exam:exam:jar:1.0.0-SNAPSHOT" -> "io.cucumber:cucumber-java:jar:7.13.0:test" ; 
+	"exam:exam:jar:1.0.0-SNAPSHOT" -> "io.cucumber:cucumber-junit-platform-engine:jar:7.13.0:test" ; 
+	"exam:exam:jar:1.0.0-SNAPSHOT" -> "org.junit.platform:junit-platform-suite:jar:1.9.3:test" ; 
+	"exam:exam:jar:1.0.0-SNAPSHOT" -> "org.junit.jupiter:junit-jupiter:jar:5.9.3:test" ; 
+	"io.cucumber:cucumber-java:jar:7.13.0:test" -> "io.cucumber:cucumber-core:jar:7.13.0:test" ; 
+	"io.cucumber:cucumber-java:jar:7.13.0:test" -> "org.apiguardian:apiguardian-api:jar:1.1.2:test" ; 
+	"io.cucumber:cucumber-core:jar:7.13.0:test" -> "io.cucumber:cucumber-gherkin:jar:7.13.0:test" ; 
+	"io.cucumber:cucumber-core:jar:7.13.0:test" -> "io.cucumber:cucumber-gherkin-messages:jar:7.13.0:test" ; 
+	"io.cucumber:cucumber-core:jar:7.13.0:test" -> "io.cucumber:messages:jar:22.0.0:test" ; 
+	"io.cucumber:cucumber-core:jar:7.13.0:test" -> "io.cucumber:tag-expressions:jar:5.0.1:test" ; 
+	"io.cucumber:cucumber-core:jar:7.13.0:test" -> "io.cucumber:cucumber-expressions:jar:16.1.2:test" ; 
+	"io.cucumber:cucumber-core:jar:7.13.0:test" -> "io.cucumber:datatable:jar:7.13.0:test" ; 
+	"io.cucumber:cucumber-core:jar:7.13.0:test" -> "io.cucumber:cucumber-plugin:jar:7.13.0:test" ; 
+	"io.cucumber:cucumber-core:jar:7.13.0:test" -> "io.cucumber:docstring:jar:7.13.0:test" ; 
+	"io.cucumber:cucumber-core:jar:7.13.0:test" -> "io.cucumber:html-formatter:jar:20.3.1:test" ; 
+	"io.cucumber:cucumber-core:jar:7.13.0:test" -> "io.cucumber:junit-xml-formatter:jar:0.2.0:test" ; 
+	"io.cucumber:cucumber-core:jar:7.13.0:test" -> "io.cucumber:ci-environment:jar:9.2.0:test" ; 
+	"io.cucumber:cucumber-gherkin-messages:jar:7.13.0:test" -> "io.cucumber:gherkin:jar:26.2.0:test" ; 
+	"io.cucumber:cucumber-junit-platform-engine:jar:7.13.0:test" -> "org.junit.platform:junit-platform-engine:jar:1.9.3:test" ; 
+	"org.junit.platform:junit-platform-engine:jar:1.9.3:test" -> "org.opentest4j:opentest4j:jar:1.2.0:test" ; 
+	"org.junit.platform:junit-platform-engine:jar:1.9.3:test" -> "org.junit.platform:junit-platform-commons:jar:1.9.3:test" ; 
+	"org.junit.platform:junit-platform-suite:jar:1.9.3:test" -> "org.junit.platform:junit-platform-suite-api:jar:1.9.3:test" ; 
+	"org.junit.platform:junit-platform-suite:jar:1.9.3:test" -> "org.junit.platform:junit-platform-suite-engine:jar:1.9.3:test" ; 
+	"org.junit.platform:junit-platform-suite-engine:jar:1.9.3:test" -> "org.junit.platform:junit-platform-suite-commons:jar:1.9.3:test" ; 
+	"org.junit.platform:junit-platform-suite-commons:jar:1.9.3:test" -> "org.junit.platform:junit-platform-launcher:jar:1.9.3:test" ; 
+	"org.junit.jupiter:junit-jupiter:jar:5.9.3:test" -> "org.junit.jupiter:junit-jupiter-api:jar:5.9.3:test" ; 
+	"org.junit.jupiter:junit-jupiter:jar:5.9.3:test" -> "org.junit.jupiter:junit-jupiter-params:jar:5.9.3:test" ; 
+	"org.junit.jupiter:junit-jupiter:jar:5.9.3:test" -> "org.junit.jupiter:junit-jupiter-engine:jar:5.9.3:test" ; 
+ } 
