@@ -1,16 +1,23 @@
-# exam
+# Exam
 
+## Getting Started
 
-## To give the exam, first clone the repo
+To start your examination, follow these steps:
 
-(Side note: Make sure you installed java)
+1. Clone this repository to your local machine:
 
-`
-make run
-`
+   ```shell
+   git@github.com:ajayjogiya/exam.git
+   ```
 
-## For running test
+Ensure you have Java installed on your system.
 
-`
-make test
-`
+2. Run the exam:
+
+    ```shell
+    make run
+    ```
+
+3. Running tests:
+
+To run tests for the examination, use the following command: `make test`
