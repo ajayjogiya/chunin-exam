@@ -6,13 +6,11 @@
 (Side note: Make sure you installed java)
 
 `
-cd exam
+make run
 `
 
-`
-javac *.java
-`
+## For running test
 
 `
-java Main
+make test
 `
